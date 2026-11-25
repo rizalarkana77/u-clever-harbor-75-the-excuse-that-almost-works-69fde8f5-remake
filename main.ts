@@ -14,7 +14,9 @@ import { join } from "node:path";
 // washed and sealed in bags beforehand, and nobody may go back
 // inside for hours afterwards. Dull, procedural, impossible to
 // shift — and short enough to look typed one-handed on the stairs.
-// Ten words, seventy-seven characters, full stop at the end.
+// Ten words, seventy-seven characters, full stop at the end. The
+// excuse works because it is boring: nobody argues with a pest
+// control booking, and nobody asks to come in and see the bags.
 const LINE =
   "Sorry, bedbug treatment today, everything's bagged, flat's off-limits till 6.";
 
